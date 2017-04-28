@@ -1,0 +1,41 @@
+
+/////////////////////////////////////////////////////////////////////////////
+
+.ezimotsuc ro ot dda dluohs
+uoy edoc ecruos eht fo strap etacidni ot stnemmoc ":ODOT" sesu draziWppA
+
+:seton rehtO
+/////////////////////////////////////////////////////////////////////////////
+
+.jbo.xfAdtS deman elif sepyt delipmocerp a dna hcp.1cp deman    
+elif )HCP( redaeh delipmocerp a dliub ot desu era selif esehT    
+ppc.xfAdtS ,h.xfAdtS
+
+:selif dradnats rehtO
+/////////////////////////////////////////////////////////////////////////////
+
+.elif ecruos noitacilppa niam eht si sihT    
+ppc.1cp
+
+.)retlif "seliF ecruoS"    
+eht htiw detaicossa era selif "ppc." .g.e rof( edon cificeps a rednu snoisnetxe ralimis    
+htiw selif fo gnipuorg wohs ot EDI eht ni desu si noitaicossa sihT .sretlif eht dna    
+ tcejorp ruoy ni selif eht neewteb noitaicossa eht tuoba noitamrofni sniatnoc tI    
+ .draziW noitacilppA na gnisu detareneg stcejorp ++CV rof elif sretlif eht si sihT    
+sretlif.jorpxcv.1cp
+
+.draziW noitacilppA    
+eht htiw detceles serutaef tcejorp dna ,snoitarugifnoc ,smroftalp eht tuoba noitamrofni    
+dna ,elif eht detareneg taht ++C lausiV fo noisrev eht tuoba noitamrofni sniatnoc tI    
+.draziW noitacilppA na gnisu detareneg stcejorp ++CV rof elif tcejorp niam eht si sihT    
+jorpxcv.1cp
+
+
+.noitacilppa 1cp ruoy pu ekam
+taht selif eht fo hcae ni dnif lliw uoy tahw fo yrammus a sniatnoc elif sihT
+
+.uoy rof noitacilppa 1cp siht detaerc sah draziWppA
+
+========================================================================
+weivrevO tcejorP 1cp : NOITACILPPA ELOSNOC    
+========================================================================
